@@ -2,6 +2,8 @@
 
 O Cooking-up é um inovador aplicativo de livro de receitas desenvolvido com a moderna framework Vue.js, projetado para transformar a maneira como você encontra e prepara pratos deliciosos com os ingredientes que já possui. Com uma interface intuitiva e responsiva, nosso aplicativo é a solução perfeita para quem deseja otimizar o uso dos ingredientes disponíveis e explorar novas receitas de maneira prática e rápida.
 
+<br><br>
+
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
